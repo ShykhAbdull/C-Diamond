@@ -1,5 +1,5 @@
 #include <iostream>
-#include <header.h>
+
 
 using namespace std; 
 int i , j , space, num;
